@@ -1,5 +1,5 @@
 # phileo-dataset
-    There are 3 main preprocessing scripts:
+    There are 3 main preprocessing scripts in this GitHub repository:
 
     1.  preprocess_SAFE2TIF: takes the level 2A S2 files (.SAFE), merges the bands and saves the results as a .tif file.
         In the datafolder this is the step mini_foundation_SAFE --> mini_foundation_tifs
@@ -15,4 +15,3 @@
         Koppen-Geiger: aux_data/beck_kg_map_masked.tif
         encoded coordinates: encoded_coordinates_global.tif
         In the datafolder this is the step aux_data --> **label_kg.tif, **label_coords.tif, **label_terrain.tif
-
