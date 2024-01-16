@@ -15,3 +15,5 @@
         Koppen-Geiger: aux_data/beck_kg_map_masked.tif
         encoded coordinates: encoded_coordinates_global.tif
         In the datafolder this is the step aux_data --> **label_kg.tif, **label_coords.tif, **label_terrain.tif
+
+Additional information can be found in dataset_README
